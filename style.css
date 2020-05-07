@@ -1,0 +1,103 @@
+h1
+    {
+     color: rgb(107,90,205);
+     text-align: center;
+     font-family: Arial;
+     font-size: 28px;
+     text-decoration: underline;
+    }
+.title{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 500px;
+        height:125px;
+      }
+.m
+{
+    padding:0 25px;
+    
+}  
+textarea
+    {
+        width: 45%;
+    }   
+.container
+   {
+       
+        width: 800px;
+        height:950px;
+        margin: 0 auto;
+       
+        color: whitesmoke;
+        background-color:rgb(107,90,205);
+   }     
+.qualification
+    {
+     text-align: center;
+     font-family: Arial;
+    }
+.a{
+    vertical-align: center;
+
+}
+
+a{
+    color: rgb(101,0,142);
+    font-size: 30px;
+}
+.q
+    {
+        text-align: center;
+    }
+
+#submit{
+    vertical-align: center;
+}
+.x
+   {
+       align-items: center;
+       margin: auto;
+       width:113px ;
+
+    }
+.abc
+ {
+
+    border-radius: 1em;
+    padding: 1em;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) }
+     
+
+.t
+    { 
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 400px;
+        height: 400px;
+   
+    }   
+#thankyou
+   {
+        color: rgb(1,140,23);
+        font-size: 50px;
+        text-align: center;
+    
+    }
+#b
+   {
+        color: rgb(117,7,194);
+        font-size: 50px;
+        text-align: center;
+    }    
+#p
+{
+    text-align: center;
+    font-size: 50px;
+    font: bolder;
+}
